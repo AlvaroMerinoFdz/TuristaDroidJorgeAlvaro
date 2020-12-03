@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TuristaDroid</string>
+    <string name="version">v1.0</string>
 </resources>
